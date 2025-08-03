@@ -1,7 +1,9 @@
-##🌟 Swati Singh — Writer | Developer | Data Dreamer
+
+
+##  Swati Singh — Writer | Developer | Data Dreamer
 "Code is poetry, and data is the story."
 
-## Hi there 👋
+Hi there 👋
 
 I'm a curious mind blending the logic of code with the soul of storytelling.
 
