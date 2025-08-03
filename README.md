@@ -19,6 +19,9 @@ React.js | Node.js | OpenCV | NumPy | Pandas | Matplotlib
 Tools & Platforms:
 
 Git + GitHub | Jupyter Notebooks | VS Code | Google Colab | Canva
+
 📫 Let’s Connect
+
 📧 Email: work.swatisingh12@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/swati-singhh/
