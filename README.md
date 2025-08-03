@@ -1,16 +1,22 @@
+##🌟 Swati Singh — Writer | Developer | Data Dreamer
+"Code is poetry, and data is the story."
+
 ## Hi there 👋
 
-<!--
-**GoldenFalconn/GoldenFalconn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a curious mind blending the logic of code with the soul of storytelling.
 
-Here are some ideas to get you started:
+💻 Coding my way through the web, Python scripts, and AI dreams
+🧠 Exploring computer vision, machine learning & data analysis
+✍️ Passionate about writing—technical blogs, creative content, and more
+🎨 Building projects that mix creativity with code
+🧠 My Tech Toolbox
+Languages & Frameworks:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML | CSS | JavaScript | Python | SQL
+React.js | Node.js | OpenCV | NumPy | Pandas | Matplotlib
+Tools & Platforms:
+
+Git + GitHub | Jupyter Notebooks | VS Code | Google Colab | Canva
+📫 Let’s Connect
+📧 Email: work.swatisingh12@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/swati-singhh/
