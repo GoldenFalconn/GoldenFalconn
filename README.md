@@ -7,10 +7,7 @@ Hi there 👋
 
 I'm a curious mind blending the logic of code with the soul of storytelling.
 
-💻 Coding my way through the web, Python scripts, and AI dreams
-🧠 Exploring computer vision, machine learning & data analysis
-✍️ Passionate about writing—technical blogs, creative content, and more
-🎨 Building projects that mix creativity with code
+🚀 Debugging life one line at a time! 
 
 Languages & Frameworks: HTML | CSS | JavaScript | Python | SQL
 React.js | Node.js | OpenCV | NumPy | Pandas | Matplotlib
