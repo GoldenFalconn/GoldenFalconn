@@ -12,12 +12,10 @@ I'm a curious mind blending the logic of code with the soul of storytelling.
 Languages & Frameworks: HTML | CSS | JavaScript | Python | SQL
 React.js | Node.js | OpenCV | NumPy | Pandas | Matplotlib
 
-Tools & Platforms:
-
-Git + GitHub | Jupyter Notebooks | VS Code | Google Colab | Canva
+Tools & Platforms: Git + GitHub | Jupyter Notebooks | VS Code | Google Colab | Canva
 
 📫 Let’s Connect
 
-📧 Email: work.swatisingh12@gmail.com
+📧 Email: ssingh19_be22@thapar.edu 
 
 💼 LinkedIn: https://www.linkedin.com/in/swati-singhh/
