@@ -1,4 +1,5 @@
-Swati Singh — AI/ML Enthusiast | Full-Stack Developer | Data Dreamer
+🌟Swati Singh — Exploring Intelligence Through Code
+
 Debugging life one line at a time!
 
 Hi there 👋
