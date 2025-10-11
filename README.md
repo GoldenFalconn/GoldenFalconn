@@ -1,21 +1,37 @@
+🌟 Swati Singh — AI/ML Enthusiast | Full-Stack Developer | Data Dreamer
 
-
-##  Swati Singh — Writer | Developer | Data Dreamer
-"Code is poetry, and data is the story."
+💬 “Machines learn from data — I learn from curiosity.”
 
 Hi there 👋
 
-I'm a curious mind blending the logic of code with the soul of storytelling.
+I’m Swati, an AI/ML-driven full-stack developer who loves building intelligent apps — where models meet modern UI.
+I turn data into insight, and ideas into interactive experiences.
 
-🚀 Debugging life one line at a time! 
+🚀 Debugging life one line (and one neural net) at a time.
 
-Languages & Frameworks: HTML | CSS | JavaScript | Python | SQL
-React.js | Node.js | OpenCV | NumPy | Pandas | Matplotlib
+🧠 What I’m Into
 
-Tools & Platforms: Git + GitHub | Jupyter Notebooks | VS Code | Google Colab | Canva
+🤖 Designing & fine-tuning AI/ML models that actually learn something cool
 
-📫 Let’s Connect
+🧩 Building full-stack apps that bring those models to life (React + Node + APIs)
 
-📧 Email: ssingh19_be22@thapar.edu 
+👁️ Exploring Computer Vision & NLP for creative real-world use cases
 
-💼 LinkedIn: https://www.linkedin.com/in/swati-singhh/
+💡 Crafting seamless front-end experiences powered by smart logic
+
+⚙️ Tech Toolbox
+
+Languages: Python, JavaScript, SQL, HTML, CSS, C/C++
+AI/ML: TensorFlow, PyTorch, scikit-learn, OpenCV, NumPy, Pandas, Matplotlib
+Web: React.js, Node.js, Express, REST APIs
+Tools: Git + GitHub, VS Code, Jupyter, Google Colab, Canva
+
+🌱 Currently Exploring
+
+LLMs • Generative AI • Agentic Systems • AI x Web Integration
+
+📫 Let’s Connect!
+📧 ssingh19_be22@thapar.edu
+
+💼 linkedin.com/in/swati-singhh
+
