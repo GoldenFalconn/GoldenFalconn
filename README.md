@@ -1,13 +1,9 @@
-🌟 Swati Singh — AI/ML Enthusiast | Full-Stack Developer | Data Dreamer
-
-💬 “Machines learn from data — I learn from curiosity.”
+Swati Singh — AI/ML Enthusiast | Full-Stack Developer | Data Dreamer
+Debugging life one line at a time!
 
 Hi there 👋
-
-I’m Swati, an AI/ML-driven full-stack developer who loves building intelligent apps — where models meet modern UI.
-I turn data into insight, and ideas into interactive experiences.
-
-🚀 Debugging life one line (and one neural net) at a time.
+I’m Swati, an AI/ML engineer focused on building and deploying models that make data come alive.
+From pixels to predictions — I craft intelligence from information.
 
 🧠 What I’m Into
 
