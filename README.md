@@ -1,5 +1,3 @@
-🌟Swati Singh — Exploring Intelligence Through Code
-
 Debugging life one line at a time!
 
 Hi there 👋
