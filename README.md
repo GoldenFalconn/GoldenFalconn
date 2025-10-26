@@ -3,7 +3,7 @@
 Debugging life one line at a time!
 
 Hi there 👋
-I’m Swati, an AI/ML engineer focused on building and deploying models that make data come alive.
+I’m Swati, an AI/ML enthusiast focused on building and deploying models that make data come alive.
 From pixels to predictions — I craft intelligence from information.
 
 🧠 What I’m Into
